@@ -86,60 +86,26 @@ ARCH
 FEDORA
                     ;;
                 *)
-                    cat << "TUX"
-                  .':okkkdc'.                  
-               ''lkXNNNNNNNNOo,.               
-             . c0KKKKKKKKKKKKKKo..             
-            . lkkdddxkkkkkkkkkkkd .            
-             .dlkXWN0dlddolllccod' .           
-              :0KKXNNKo,:d0KXX0l'.             
-              dKKKKKo.;.,:KKKKXXx              
-              ;XKKKKx....:KKKKKKl              
-         .     ;0XK0OOk0XNNK0Oc.     .         
-        .      'kkxxkkkkk0K0KNKc      ..       
-     .....   .OMMMWXkxkkkkkNMMMMNc   ....'     
-   ..''.    ;NNNNNNNN0kxk0NNNNNNNNk    .''...  
- ',:'.     'KXXXXXXXXXXKKXXXXXXXXXXd     .';;'.
-.,.        O000000000000000000000000,        '.
-          '0OOOOOOOOOOOOOOOOOOOOOOO0x          
-          ,KOOOOOOOOOOOOOOOOOOOOOOO0k          
-         .,K0OOOOOOOOOOOOOOOOOOOOOOKd.         
-          .OKOOOOOOOOOOOOOOOOOOOOO0Kc          
-        cddOKKK0OkkkkOOOOOkkxxxO00KKxdl.       
-      'd0KKKKKKKK0xxxxkOOxxxkOKXXXXXXKKko      
-      lxOOOOOOOOOkxxxxxkxxxkkk000000000kx.     
-      :lllllllllllllllcccclllllooooooollc      
-                .';:clllllc:;'. 
-TUX
+                    cat << "UNIXLIKE"
+  kko     'kk, lkkkkkkko    :kk. kkx      .c  
+  XXx     'XX; dXX     lKO  cXX.  ;X0;   k    
+  XXx     'XX; xXX      XXl cXX.    0KOl'     
+  KXk     'XX; xXX      XXx cXX.    :dXKc     
+  .XX.    'XX; dXX      XXx cXX.  .x   dXO    
+     KkxxxOXX; dXX      XXk cXX. d.      XKl  Like
+UNIXLIKE
                     ;;
             esac
             ;;
         *)
-            cat << "TUX"
-                  .':okkkdc'.                  
-               ''lkXNNNNNNNNOo,.               
-             . c0KKKKKKKKKKKKKKo..             
-            . lkkdddxkkkkkkkkkkkd .            
-             .dlkXWN0dlddolllccod' .           
-              :0KKXNNKo,:d0KXX0l'.             
-              dKKKKKo.;.,:KKKKXXx              
-              ;XKKKKx....:KKKKKKl              
-         .     ;0XK0OOk0XNNK0Oc.     .         
-        .      'kkxxkkkkk0K0KNKc      ..       
-     .....   .OMMMWXkxkkkkkNMMMMNc   ....'     
-   ..''.    ;NNNNNNNN0kxk0NNNNNNNNk    .''...  
- ',:'.     'KXXXXXXXXXXKKXXXXXXXXXXd     .';;'.
-.,.        O000000000000000000000000,        '.
-          '0OOOOOOOOOOOOOOOOOOOOOOO0x          
-          ,KOOOOOOOOOOOOOOOOOOOOOOO0k          
-         .,K0OOOOOOOOOOOOOOOOOOOOOOKd.         
-          .OKOOOOOOOOOOOOOOOOOOOOO0Kc          
-        cddOKKK0OkkkkOOOOOkkxxxO00KKxdl.       
-      'd0KKKKKKKK0xxxxkOOxxxkOKXXXXXXKKko      
-      lxOOOOOOOOOkxxxxxkxxxkkk000000000kx.     
-      :lllllllllllllllcccclllllooooooollc      
-                .';:clllllc:;'. 
-TUX
+            cat << "UNIXLIKE"
+  kko     'kk, lkkkkkkko    :kk. kkx      .c  
+  XXx     'XX; dXX     lKO  cXX.  ;X0;   k    
+  XXx     'XX; xXX      XXl cXX.    0KOl'     
+  KXk     'XX; xXX      XXx cXX.    :dXKc     
+  .XX.    'XX; dXX      XXx cXX.  .x   dXO    
+     KkxxxOXX; dXX      XXk cXX. d.      XKl  Like
+UNIXLIKE
             ;;
     esac
 }
