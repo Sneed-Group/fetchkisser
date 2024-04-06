@@ -218,8 +218,8 @@ main() {
                 use_kissy="true"
                 ascii_displayer "$use_kissy"
                 display_system_info
-                display_package_manager_info
-                echo "Is Arch BTW: $(is_arch)"
+                #display_package_manager_info
+                #echo "Is Arch BTW: $(is_arch)"
                 shift
                 ;;
             -a | --all)
